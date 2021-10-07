@@ -1,0 +1,6 @@
+module Pods_EslintDemo_EslintDemoTests {
+  umbrella header "Pods-EslintDemo-EslintDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
